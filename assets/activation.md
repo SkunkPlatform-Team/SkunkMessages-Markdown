@@ -1,4 +1,5 @@
 SkunkMessages+ Activation Key Terms
+- [Activate](https://skunkplatform.netlify.app/messages/activate) • [Channels](https://skunkplatform.netlify.app/messages/channels) • [Discord](https://skunkplatform.netlify.app/messages/discord)
 
 By purchasing SkunkMessages+, you agree to the following activation terms:
 
