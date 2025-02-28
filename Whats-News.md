@@ -2,7 +2,7 @@
 
 The SMUpdates will include any updates and new features.
 
-## SkunkPlatform Age Security <span style="font-size: 4px">
+## SkunkPlatform Age Security <span style="font-size: 4px">28-02-2025</span>
 
 The SkunkPlatform Contact has been updated to Age Security to prevent under 17 ages in SkunkMessages+.
 
