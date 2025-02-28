@@ -2,13 +2,17 @@
 
 The SMUpdates will include any updates and new features.
 
-## SkunkPlatform Age Security
+## SkunkPlatform Age Security <span style="font-size: 4px">
 
 The SkunkPlatform Contact has been updated to Age Security to prevent under 17 ages in SkunkMessages+.
 
 ### Important
 
 The SkunkPlatform doesn't allow to use Under 17 Ages that only be used with SkunkMessages Free Plan. The Last Time, The AI-Moderation WILL TERMINATE DENYING MESSAGES. Without any Permission to use under 17 age.
+
+### Account Termination
+
+If you violate the SkunkPlatform's Community Guidelines, it will delete your account and message deleted forever.
 
 ## SkunkMessages+
 
